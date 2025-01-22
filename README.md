@@ -7,7 +7,7 @@ We established two pipelines that automatedly overlay grayscale images from the 
 ## Pipelines for automated image quantification
 The six quantitative measurement pipelines were established for six biomarkers. Each pipeline was validated using 50 control-TMA and sample images as a training set that typically showed negative, weak, moderate, and strong positive intensity, and randomly selected 100 sample images as validation sets for necessary threshold adjustment of the “IdentifyPrimaryObjects” module until quantitative scores and pathologist’s visual scores were well matched. The sample images were uploaded into established pipelines for automated high-throughput imaging quantification. A post-analytical quality check of 5% of images, especially those with high scores was performed to correct potential errors from low-quality images showing low signal/noise ratios. 
 ## Example images for all pipelines 
-The images used for each pipeline are available from the remote repository URL ***<https://github.com/yhsu822/Input.git>***. 
+The images used for each pipeline are available from the remote repository URL ***<ins>https://github.com/yhsu822/Input.git</ins>***. 
 ## Setting up folders befor running the pipelines
 After downloading pipelines from here: ***<ins>https://github.com/yhsu822/AspirinTrial_Pipelines.git</ins>***, users must use CellProfiler v3.1.5 software (the latest version could not run the pipelines) and set up folders/subfolders on the local computer desktop before running the pipeline. 
 ### First folder: Input
