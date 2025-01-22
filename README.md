@@ -10,7 +10,7 @@ The six quantitative measurement pipelines were established for six biomarkers. 
 The images used for each pipeline are available from the remote repository URL ***<ins>https://github.com/yhsu822/Input.git</ins>***. 
 ## Setting up folders befor running the pipelines
 After downloading pipelines from here: ***<ins>https://github.com/yhsu822/AspirinTrial_Pipelines.git</ins>***, users must use CellProfiler v3.1.5 software (the latest version could not run the pipelines) and set up folders/subfolders on the local computer desktop before running the pipeline. 
-### First folder: Input
+### __First folder__: Input
 ### <ins>subfolders</ins>:
 #### 1st Panel_RawImages.
 #### 2nd Panel_RawImages.
@@ -26,7 +26,7 @@ After downloading pipelines from here: ***<ins>https://github.com/yhsu822/Aspiri
 #### TRPM7_MergedImages.
 #### TUNEL; subfolders: TUNEL_TrainingSet; higherShresholdImages.
 #### TUNEL_MergedImages.
-### Second folder: Output 
+### __Second folder__: Output 
 ### <ins>subfolders</ins>:
 #### Aspirin_BAX.
 #### Aspirin_COX2.
