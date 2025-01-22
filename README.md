@@ -9,26 +9,22 @@ The six quantitative measurement pipelines were established for six biomarkers. 
 ### Example images for all pipelines 
 The images used for each pipeline are available from the remote repository URL ***<https://github.com/yhsu822/Input.git>***. 
 ### Setting up folders for running the pipelines
-After downloading pipelines, users must use CellProfiler v3.1.5 software (the latest version could not run the pipelines) and set up folders/subfolders on the local computer desktop before running the pipeline. 
+After downloading pipelines from here: ***https://github.com/yhsu822/AspirinTrial_Pipelines.git>***, users must use CellProfiler v3.1.5 software (the latest version could not run the pipelines) and set up folders/subfolders on the local computer desktop before running the pipeline. 
 #### First folder: Input
----
 subfolders:
-1st Panel_RawImages 
-2nd Panel_RawImages 
-BAX; subfolders-Bax_TraingSet and BAX_High Bkgd 
-BAX_MergedImages 
-COX2; subfolder-COX2_TrainingSetImages 
-Cox2_MergedImages 
-Ki67; subfolder-Ki67_TrainingSet
-Ki67_MergedImages 
-pMLKL; subfolders-pMLKL_TrainingSetImages and pMLKL_2ndRun 
-pMLKL_MergedImages 
-TRPM7; subfolder-TRPM7_TrainingSet 
-TRPM7_MergedImages 
-TUNEL; subfolders-TUNEL_TrainingSet and higherShresholdImages 
+1st Panel_RawImages; 
+2nd Panel_RawImages; 
+BAX; subfolders-Bax_TraingSet and BAX_High Bkgd;
+BAX_MergedImages; 
+COX2; subfolder-COX2_TrainingSetImages; 
+Cox2_MergedImages;
+Ki67; subfolder-Ki67_TrainingSet;
+Ki67_MergedImages; 
+pMLKL; subfolders-pMLKL_TrainingSetImages and pMLKL_2ndRun; 
+pMLKL_MergedImages;
+TRPM7; subfolder-TRPM7_TrainingSet;
+TRPM7_MergedImages;
+TUNEL; subfolders-TUNEL_TrainingSet and higherShresholdImages; 
 TUNEL_MergedImages
----
 #### Second folder: Output 
----
-subfolders: Aspirin_BAX Aspirin_COX2 Aspirin_Ki67 Aspirin_pMLKL Aspirin_TRPM7 Aspirin_TUNEL
----
+subfolders: Aspirin_BAX; Aspirin_COX2; Aspirin_Ki67; Aspirin_pMLKL; Aspirin_TRPM7; Aspirin_TUNEL
