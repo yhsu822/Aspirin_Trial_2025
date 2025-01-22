@@ -11,7 +11,7 @@ The images used for each pipeline are available from the remote repository URL *
 ## Setting up folders befor running the pipelines
 After downloading pipelines from here: ***<ins>https://github.com/yhsu822/AspirinTrial_Pipelines.git</ins>***, users must use CellProfiler v3.1.5 software (the latest version could not run the pipelines) and set up folders/subfolders on the local computer desktop before running the pipeline. 
 ### <ins>First folder</ins>: Input
-### <ins>subfolders</ins>:
+### <ins>Subfolders</ins>:
 #### 1st Panel_RawImages.
 #### 2nd Panel_RawImages.
 #### BAX; subfolders: Bax_TraingSet; BAX_High Bkgd.
@@ -27,7 +27,7 @@ After downloading pipelines from here: ***<ins>https://github.com/yhsu822/Aspiri
 #### TUNEL; subfolders: TUNEL_TrainingSet; higherShresholdImages.
 #### TUNEL_MergedImages.
 ### <ins>Second folder</ins>: Output 
-### <ins>subfolders</ins>:
+### <ins>Subfolders</ins>:
 #### Aspirin_BAX.
 #### Aspirin_COX2.
 #### Aspirin_Ki67.
