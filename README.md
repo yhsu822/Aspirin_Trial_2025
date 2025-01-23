@@ -9,9 +9,9 @@ The six quantitative measurement pipelines were established for six biomarkers. 
 ## About 2nd run of modified pipelines
 For three biomarkers, some digital images showed a high background or over exposure in image acquisition. We therefore ran a second pipeline with adjusted threshold in advanced settings of "IdentifyPrimaryObjects" modules for BAX (increased from 0.009 - 1.0 to 0.013 - 1.0), pMLKL(increased from 0.032 - 1.0 to 0.038 - 1.0), and TUNEL(increased from 0.02 - 1.0 to 0.05 - 1.0). For other mIHC/IF studies, the investigators may need to adjust the threshold settings using training-set and validation-set images (50 images and 100 images, respectively, in this project) to establish the pipelines suitable for your studies.  
 ## Example images for all pipelines 
-The images used for each pipeline are available from the remote repository URL ***<ins>https://github.com/yhsu822/Input.git</ins>***. 
+The images used for each pipeline are available from the remote repository URL ***<ins>(https://github.com/yhsu822/Aspirin_Trial_2025/tree/main/Input)</ins>***. 
 ## Set up folders before running the pipelines
-After downloading pipelines from here: ***<ins>https://github.com/yhsu822/AspirinTrial_Pipelines.git</ins>***, users must use CellProfiler v3.1.5 software ***(_the latest version could not run the pipelines)*** and set up folders/subfolders on the local computer desktop before running the pipeline. 
+After downloading pipelines from here: ***<ins>https://github.com/yhsu822/Aspirin_Trial_2025/tree/main/AspirinTrial_Pipelines</ins>***, users must use CellProfiler v3.1.5 software ***(_the latest version could not run the pipelines)*** and set up folders/subfolders on the local computer desktop before running the pipeline. 
 ### <ins>First folder</ins>: Input
 ### <ins>Subfolders</ins>:
 #### 1st Panel_RawImages
