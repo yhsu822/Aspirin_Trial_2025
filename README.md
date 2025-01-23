@@ -14,26 +14,26 @@ The images used for each pipeline are available from the remote repository URL *
 After downloading pipelines from here: ***<ins>https://github.com/yhsu822/Aspirin_Trial_2025/tree/main/AspirinTrial_Pipelines</ins>***, users must use CellProfiler v3.1.5 software ***(_the latest version could not run the pipelines)*** and set up folders/subfolders on the local computer desktop before running the pipeline. 
 ### <ins>First folder</ins>: Input
 ### <ins>Subfolders</ins>:
-#### 1st Panel_RawImages
-#### 2nd Panel_RawImages
-#### BAX; subfolders: Bax_TraingSet; BAX_High Bkgd
-#### BAX_MergedImages
-#### COX2; subfolder: COX2_TrainingSetImages
-#### Cox2_MergedImages
-#### Ki67; subfolder: Ki67_TrainingSet
-#### Ki67_MergedImages
-#### pMLKL; subfolders: pMLKL_TrainingSetImages; pMLKL_2ndRun
-#### pMLKL_MergedImages
-#### TRPM7; subfolder: TRPM7_TrainingSet
-#### TRPM7_MergedImages
-#### TUNEL; subfolders: TUNEL_TrainingSet; higherShresholdImages
-#### TUNEL_MergedImages
+  -  1st Panel_RawImages
+  -  2nd Panel_RawImages
+  -  BAX; subfolders: Bax_TraingSet; BAX_High Bkgd
+  -  BAX_MergedImages
+  -  COX2; subfolder: COX2_TrainingSetImages
+  -  Cox2_MergedImages
+  -  Ki67; subfolder: Ki67_TrainingSet
+  -  Ki67_MergedImages
+  -  pMLKL; subfolders: pMLKL_TrainingSetImages; pMLKL_2ndRun
+  -  pMLKL_MergedImages
+  -  TRPM7; subfolder: TRPM7_TrainingSet
+  -  TRPM7_MergedImages
+  -  TUNEL; subfolders: TUNEL_TrainingSet; higherShresholdImages
+  -  TUNEL_MergedImages
 ### <ins>Second folder</ins>: Output 
 ### <ins>Subfolders</ins>:
-#### Aspirin_BAX
-#### Aspirin_COX2
-#### Aspirin_Ki67
-#### Aspirin_pMLKL
-#### Aspirin_TRPM7
-#### Aspirin_TUNEL
+  -  Aspirin_BAX
+  -  Aspirin_COX2
+  -  Aspirin_Ki67
+  -  Aspirin_pMLKL
+  -  Aspirin_TRPM7
+  -  Aspirin_TUNEL
 ---
