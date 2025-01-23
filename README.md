@@ -11,7 +11,7 @@ For three biomarkers, some digital images showed a high background or over expos
 ## Example images for all pipelines 
 The images used for each pipeline are available from the remote repository URL ***<ins>(https://github.com/yhsu822/Aspirin_Trial_2025/tree/main/Input)</ins>***. 
 ## Set up folders before running the pipelines
-After downloading pipelines from here: ***<ins>https://github.com/yhsu822/Aspirin_Trial_2025/tree/main/AspirinTrial_Pipelines</ins>***, users must use CellProfiler v3.1.5 software ***(_the latest version could not run the pipelines)*** and set up folders/subfolders on the local computer desktop before running the pipeline. 
+After downloading pipelines from here: ***<ins>https://github.com/yhsu822/Aspirin_Trial_2025/tree/main/AspirinTrial_Pipelines</ins>***, users must use CellProfiler v3.1.5 software ***(_the latest version could not run the pipelines_)*** and set up folders/subfolders on the local computer desktop before running the pipeline. 
 ### <ins>First folder</ins>: Input
 ### <ins>Subfolders</ins>:
   -  1st Panel_RawImages
