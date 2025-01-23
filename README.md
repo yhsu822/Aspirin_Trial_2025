@@ -6,9 +6,11 @@ This study quantitatively evaluated six biomarkers through two staining panels o
 We established two pipelines that automatedly overlay grayscale images from the two mIHC/IF panels to generate RGB images (16-bit tiff format), with biomarkers in red, pan-CK in green, and nuclei in blue. Many images were batch-processed automatically and exported into designated folders on the local computer. A study pathologist performed a visual image quality check to exclude unspecific artifacts using the open-source ImageJ software 
 ## Pipelines for automated image quantification
 The six quantitative measurement pipelines were established for six biomarkers. Each pipeline was validated using 50 control-TMA and sample images as a training set that typically showed negative, weak, moderate, and strong positive intensity, and randomly selected 100 sample images as validation sets for necessary threshold adjustment of the “IdentifyPrimaryObjects” module until quantitative scores and pathologist’s visual scores were well matched. The sample images were uploaded into established pipelines for automated high-throughput imaging quantification. A post-analytical quality check of 5% of images, especially those with high scores was performed to correct potential errors from low-quality images showing low signal/noise ratios. 
+## About 2nd run of modified pipelines
+For thre biomarkers, some digital images showed high background or over exposure in digital image capture. We therefore adjusted threshold in advanced settings of "IdentifyPrimaryObjects" modules for BAX (increased from 0.009 - 1.0 to 0.013 - 1.0), pMLKL(increased from 0.032 - 1.0 to 0.038 - 1.0), and TUNEL(increased from 0.02 - 1.0 to 0.05 - 1.0).
 ## Example images for all pipelines 
 The images used for each pipeline are available from the remote repository URL ***<ins>https://github.com/yhsu822/Input.git</ins>***. 
-## Setting up folders befor running the pipelines
+## Set up folders befor running the pipelines
 After downloading pipelines from here: ***<ins>https://github.com/yhsu822/AspirinTrial_Pipelines.git</ins>***, users must use CellProfiler v3.1.5 software (the latest version could not run the pipelines) and set up folders/subfolders on the local computer desktop before running the pipeline. 
 ### <ins>First folder</ins>: Input
 ### <ins>Subfolders</ins>:
