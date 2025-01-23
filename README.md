@@ -16,17 +16,26 @@ After downloading pipelines from here: ***<ins>https://github.com/yhsu822/Aspiri
 ### <ins>Subfolders</ins>:
   -  1st Panel_RawImages
   -  2nd Panel_RawImages
-  -  BAX; subfolders: Bax_TraingSet; BAX_High Bkgd
+  -  BAX
+     - Bax_TraingSet
+     - BAX_High Bkgd
   -  BAX_MergedImages
-  -  COX2; subfolder: COX2_TrainingSetImages
+  -  COX2
+     - COX2_TrainingSetImages
   -  Cox2_MergedImages
-  -  Ki67; subfolder: Ki67_TrainingSet
+  -  Ki67
+     - Ki67_TrainingSet
   -  Ki67_MergedImages
-  -  pMLKL; subfolders: pMLKL_TrainingSetImages; pMLKL_2ndRun
+  -  pMLKL
+     - pMLKL_TrainingSetImages
+     - pMLKL_2ndRun
   -  pMLKL_MergedImages
-  -  TRPM7; subfolder: TRPM7_TrainingSet
+  -  TRPM7
+     - TRPM7_TrainingSet
   -  TRPM7_MergedImages
-  -  TUNEL; subfolders: TUNEL_TrainingSet; higherShresholdImages
+  -  TUNEL
+     - TUNEL_TrainingSet
+     - higherShresholdImages
   -  TUNEL_MergedImages
 ### <ins>Second folder</ins>: Output 
 ### <ins>Subfolders</ins>:
